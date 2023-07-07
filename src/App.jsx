@@ -74,6 +74,15 @@ function App() {
       >
         숙소 정하기
       </h1>
+      <h3
+        style={{
+          marginLeft: "auto",
+          marginRight: "auto",
+          textAlign: "center",
+        }}
+      >
+        칼럼 명 더블 클릭하면 오름차순, 내림차순 정렬 가능
+      </h3>
 
       <div
         className="ag-theme-alpine"
