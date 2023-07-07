@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  width: 100vw;
+}
+
+#root {
+  width: 100vw;
+}
+
+.App {
+  width: 100vw;
+}
+
+.ag-header-cell-label {
+  justify-content: center;
+}
+
+.ag-cell {
+  justify-content: flex-end;
+}
